@@ -1,4 +1,4 @@
-# CS211-Project-1-Intro-To-C
+# CS211-CompArch-Project-1-Intro-To-C
 
 Summary:
 
