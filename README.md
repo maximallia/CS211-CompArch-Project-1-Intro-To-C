@@ -19,3 +19,5 @@ Sixth: Pig Latin
 Seventh: String Operations II
 
 Eighth: Binary Search Tree
+
+MORE INFO: assignment 1.pdf
